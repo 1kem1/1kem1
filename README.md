@@ -20,6 +20,28 @@
 - 正在学习和实践遥感图像分割、地物识别与空间数据建模
 - 希望将 AI 方法应用到真实地理空间问题中
 
+## Featured Project
+
+### [Remote Sensing Semantic Segmentation with MMSegmentation](https://github.com/1kem1/MMSegmentation1x)
+
+基于 MMSegmentation 框架，进行遥感影像语义分割相关实践，关注地物识别、模型训练、配置调优与空间数据分析流程。
+
+**Highlights**
+
+- 使用 MMSegmentation 搭建语义分割训练流程
+- 面向遥感影像场景进行数据处理与模型实验
+- 实践配置文件管理、模型训练、推理与结果可视化
+- 探索深度学习方法在地理空间数据分析中的应用
+
+**Tech Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![MMSegmentation](https://img.shields.io/badge/MMSegmentation-1677FF?style=flat-square)
+![Remote Sensing](https://img.shields.io/badge/Remote%20Sensing-2E8B57?style=flat-square)
+![GIS](https://img.shields.io/badge/GIS-0078D4?style=flat-square)
+[View Project](https://github.com/1kem1/MMSegmentation1x)
+
 ## Tech Stack
 
 **Languages**
